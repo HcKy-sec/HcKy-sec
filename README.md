@@ -1,10 +1,10 @@
 
 
 - 👋 Hi, I’m @HcKy-sec
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 🌱 I’m currently learning **Python** and **Ansible**
+
+- 📫 Check out [HcKy-sec.io](https://hcky-sec.io)
 
 
 ![](https://komarev.com/ghpvc/?username=HcKy-sec&color=red)
